@@ -1,5 +1,7 @@
 # E-Commerce Sales Data Analysis Using Power BI
 
+## Power BI Dashboard - "C:\Users\hsami\Downloads\E-commerce sales powerBI.pbix"
+
 ## Project Overview
 
 The E-Commerce Sales Data Analysis project focuses on analyzing sales transaction data using Microsoft Power BI. The project aims to understand business performance, product demand, customer purchasing patterns, and sales trends through interactive dashboards and visualizations. Power BI is used to transform raw data into meaningful insights that support data-driven decision-making.
