@@ -1,6 +1,5 @@
 # E-Commerce Sales Data Analysis Using Power BI
 
-## Power BI Dashboard - "C:\Users\hsami\Downloads\E-commerce sales powerBI.pbix"
 
 ## Project Overview
 
